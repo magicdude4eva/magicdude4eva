@@ -11,12 +11,13 @@
 
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gerd Naschenweng](https://www.linkedin.com/in/gerdnaschenweng/)&nbsp;&nbsp;🚀
 <br />
+
 I am a Techlead and R&D Development Manager at <strong>[Alturos Destinations](https://www.alturos.com/)</strong>.
 
 I have been working with technology since 1992, and during this time I worked with the most diverse types of projects like: automative industry (Smart Cars with Daimler Chrysler), insurance, fin-tec, web programming, e-commerce, SAP business process management, business intelligence and tourism.
 
 What has enchanted me the most is working on projects where we can solve day-to-day problems, impacting all society and making the world a better place.
-
+<br />
 
 ## 👩‍💻 About me
 - 👨‍💻 I am passionate about software & people and I enjoy learning new things.
