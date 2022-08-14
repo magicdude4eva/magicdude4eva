@@ -42,13 +42,15 @@ What has enchanted me the most is working on projects where we can solve day-to-
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=magicdude4eva&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
+## Recent activity :zap:
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com/magicdude4eva/HackerRank/pull/1) in [magicdude4eva/HackerRank](https://github.com/magicdude4eva/HackerRank)
 2. 💪 Opened PR [#1](https://github.com/magicdude4eva/HackerRank/pull/1) in [magicdude4eva/HackerRank](https://github.com/magicdude4eva/HackerRank)
 3. 🎉 Merged PR [#1](https://github.com/magicdude4eva/.github/pull/1) in [magicdude4eva/.github](https://github.com/magicdude4eva/.github)
 4. 💪 Opened PR [#1](https://github.com/magicdude4eva/.github/pull/1) in [magicdude4eva/.github](https://github.com/magicdude4eva/.github)
 <!--END_SECTION:activity-->
-  
+ 
+<br /><br />  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=magicdude4eva.magicdude4eva)
 
 
