@@ -1,12 +1,24 @@
-<a href="https://twitter.com/gerdnaschenweng">
-  <img align="left" alt="Gerd Naschenweng's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/gerdnaschenweng/">
-  <img align="left" alt="Gerd Naschenweng's Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/magicdude4eva">
-  <img align="left" alt="Gerd Naschenweng's Github" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
+<div align="left">
+  <a href="https://twitter.com/gerdnaschenweng">
+    <img src="https://img.shields.io/twitter/follow/gerdnaschenweng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/gerdnaschenweng/">
+    <img src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86" alt="LinkedIn"/>
+
+  <a href="https://app.daily.dev/magicdude4eva" target="_blank">
+    <img
+      width="256" align="right"
+      alt="Gerd Naschenweng's Dev Card"
+      src="https://github.com/magicdude4eva/magicdude4eva/blob/main/devcard.svg"
+    />
+  </a>
+  
+
+  
+  
+</div>
+
+
+
 <br />
 
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gerd Naschenweng](https://www.linkedin.com/in/gerdnaschenweng/)&nbsp;&nbsp;🚀
