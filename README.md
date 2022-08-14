@@ -42,7 +42,8 @@ What has enchanted me the most is working on projects where we can solve day-to-
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=magicdude4eva&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=magicdude4eva.magicdude4eva)
 
