@@ -11,10 +11,6 @@
       src="https://github.com/magicdude4eva/magicdude4eva/blob/main/devcard.svg"
     />
   </a>
-  
-
-  
-  
 </div>
 
 
@@ -50,9 +46,12 @@ What has enchanted me the most is working on projects where we can solve day-to-
 4. 💪 Opened PR [#1](https://github.com/magicdude4eva/.github/pull/1) in [magicdude4eva/.github](https://github.com/magicdude4eva/.github)
 <!--END_SECTION:activity-->
  
-<br /><br />  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=magicdude4eva.magicdude4eva)
+<br /><br /> 
 
+<div align="center">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=magicdude4eva.magicdude4eva)
+</div>
 
 <!--
 **magicdude4eva/magicdude4eva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
