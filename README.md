@@ -45,7 +45,11 @@ What has enchanted me the most is working on projects where we can solve day-to-
 3. 🎉 Merged PR [#1](https://github.com/magicdude4eva/.github/pull/1) in [magicdude4eva/.github](https://github.com/magicdude4eva/.github)
 4. 💪 Opened PR [#1](https://github.com/magicdude4eva/.github/pull/1) in [magicdude4eva/.github](https://github.com/magicdude4eva/.github)
 <!--END_SECTION:activity-->
- 
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <br /><br /> 
 
 <div align="center">
