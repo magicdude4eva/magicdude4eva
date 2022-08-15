@@ -48,6 +48,11 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Get 3 years of Xbox Game Pass Ultimate for under $3/month &lpar;€85 for 3 years&rpar;](https://www.naschenweng.info/2021/12/20/get-3-years-of-xbox-game-pass-ultimate-for-under-3-month-e85-for-3-years/)
+- [Carts full of bling bling – Glitter Mining with VVS and CRO](https://www.naschenweng.info/2021/11/28/carts-full-of-bling-bling-glitter-mining-with-vvs-and-cro/)
+- [Own your own Blockchain NFT-domain forever](https://www.naschenweng.info/2021/11/15/owning-your-own-block-chain-nft-domain-forever/)
+- [Crypto.com Visa Debit Card with Cashback and 100% rebate on Netflix, Spotify &amp; Amazon Prime](https://www.naschenweng.info/2021/11/10/crypto_com_visa_debit_card_supercharger/)
+- [Improved Terminal Experience with Oh My Zsh, iTerm2, PowerLevel10K](https://www.naschenweng.info/2021/01/05/improved-terminal-experience-with-oh-my-zsh-iterm2-powerlevel10k/)
 <!-- BLOG-POST-LIST:END -->
 
   
