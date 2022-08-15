@@ -16,6 +16,4 @@ jobs:
         with:
           feed_list: "https://www.naschenweng.info/feed"
           disable_item_validation: true
-          user_agent: "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
-          accept: "text/xml"
 
