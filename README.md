@@ -40,7 +40,7 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/magicdude4eva/HackerRank/pull/1) in [magicdude4eva/HackerRank](https://github.com/magicdude4eva/HackerRank)
+1. 🎉 Merged PR [#1](https://github.com/magicdude4eva/magicdude4eva/pull/1) in [magicdude4eva/magicdude4eva](https://github.com/magicdude4eva/magicdude4eva)
 2. 💪 Opened PR [#1](https://github.com/magicdude4eva/HackerRank/pull/1) in [magicdude4eva/HackerRank](https://github.com/magicdude4eva/HackerRank)
 3. 🎉 Merged PR [#1](https://github.com/magicdude4eva/.github/pull/1) in [magicdude4eva/.github](https://github.com/magicdude4eva/.github)
 4. 💪 Opened PR [#1](https://github.com/magicdude4eva/.github/pull/1) in [magicdude4eva/.github](https://github.com/magicdude4eva/.github)
