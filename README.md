@@ -1,14 +1,10 @@
 <div align="left">
   <a href="https://twitter.com/gerdnaschenweng">
     <img src="https://img.shields.io/twitter/follow/gerdnaschenweng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff" alt="Twitter"/></a>
-  <a href="https://mastodon.cloud/@gerdnaschenweng">
+  <a rel="me" href="https://mastodon.cloud/@gerdnaschenweng">
     <img src="https://img.shields.io/mastodon/follow/109410730185529674?domain=https%3A%2F%2Fmastodon.cloud&label=Mastodon&logo=mastodon&style=flat-square&color=1da1f2&logoColor=ffffff" alt="Mastodon"/></a>
   <a href="https://www.linkedin.com/in/gerdnaschenweng/">
-    <img src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86" alt="LinkedIn"/></a>
-
-  
-
-  
+    <img src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86" alt="LinkedIn"/></a>  
 
   <a href="https://app.daily.dev/magicdude4eva" target="_blank">
     <img
