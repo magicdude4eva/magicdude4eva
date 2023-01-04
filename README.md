@@ -41,8 +41,8 @@ What has enchanted me the most is working on projects where we can solve day-to-
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1084](https://github.com/cagnulein/qdomyos-zwift/issues/1084) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
-2. 🎉 Merged PR [#3](https://github.com/magicdude4eva/magicdude4eva/pull/3) in [magicdude4eva/magicdude4eva](https://github.com/magicdude4eva/magicdude4eva)
-3. 🗣 Commented on [#1084](https://github.com/cagnulein/qdomyos-zwift/issues/1084) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
+2. 🗣 Commented on [#1084](https://github.com/cagnulein/qdomyos-zwift/issues/1084) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
+3. 🎉 Merged PR [#3](https://github.com/magicdude4eva/magicdude4eva/pull/3) in [magicdude4eva/magicdude4eva](https://github.com/magicdude4eva/magicdude4eva)
 4. 🗣 Commented on [#1084](https://github.com/cagnulein/qdomyos-zwift/issues/1084) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
 <!--END_SECTION:activity-->
 
