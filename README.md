@@ -40,10 +40,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/magicdude4eva/docker-gunbot/issues/1) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
-2. ❌ Closed PR [#2](https://github.com/magicdude4eva/docker-gunbot/pull/2) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
-3. 🗣 Commented on [#2](https://github.com/magicdude4eva/docker-gunbot/issues/2) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
-4. 🗣 Commented on [#3](https://github.com/magicdude4eva/docker-gunbot/issues/3) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
+1. 🗣 Commented on [#1084](https://github.com/cagnulein/qdomyos-zwift/issues/1084) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
+2. ❗️ Closed issue [#1](https://github.com/magicdude4eva/docker-gunbot/issues/1) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
+3. ❌ Closed PR [#2](https://github.com/magicdude4eva/docker-gunbot/pull/2) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
+4. 🗣 Commented on [#2](https://github.com/magicdude4eva/docker-gunbot/issues/2) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
 <!--END_SECTION:activity-->
 
 ## Blog posts
