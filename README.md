@@ -40,10 +40,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/ar51an/raspberrypi-motd/pull/4) in [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)
-2. 💪 Opened PR [#3](https://github.com/ar51an/raspberrypi-motd/pull/3) in [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)
-3. 🗣 Commented on [#3](https://github.com/magicdude4eva/docker-gunbot/issues/3) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
-4. 🗣 Commented on [#1084](https://github.com/cagnulein/qdomyos-zwift/issues/1084) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
+1. ❌ Closed PR [#3](https://github.com/ar51an/raspberrypi-motd/pull/3) in [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)
+2. 💪 Opened PR [#5](https://github.com/ar51an/raspberrypi-motd/pull/5) in [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)
+3. 💪 Opened PR [#4](https://github.com/ar51an/raspberrypi-motd/pull/4) in [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)
+4. 💪 Opened PR [#3](https://github.com/ar51an/raspberrypi-motd/pull/3) in [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)
 <!--END_SECTION:activity-->
 
 ## Blog posts
