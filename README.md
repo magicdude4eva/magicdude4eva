@@ -40,10 +40,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/jonfairbanks/sonarr-episode-trimmer/issues/2) in [jonfairbanks/sonarr-episode-trimmer](https://github.com/jonfairbanks/sonarr-episode-trimmer)
-2. ❌ Closed PR [#3](https://github.com/ar51an/raspberrypi-motd/pull/3) in [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)
-3. 💪 Opened PR [#5](https://github.com/ar51an/raspberrypi-motd/pull/5) in [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)
-4. 💪 Opened PR [#4](https://github.com/ar51an/raspberrypi-motd/pull/4) in [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)
+1. ❗️ Opened issue [#5593](https://github.com/Sonarr/Sonarr/issues/5593) in [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
+2. 🗣 Commented on [#3386](https://github.com/sct/overseerr/issues/3386) in [sct/overseerr](https://github.com/sct/overseerr)
+3. ❗️ Opened issue [#2](https://github.com/jonfairbanks/sonarr-episode-trimmer/issues/2) in [jonfairbanks/sonarr-episode-trimmer](https://github.com/jonfairbanks/sonarr-episode-trimmer)
+4. ❌ Closed PR [#3](https://github.com/ar51an/raspberrypi-motd/pull/3) in [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)
 <!--END_SECTION:activity-->
 
 ## Blog posts
