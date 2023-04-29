@@ -40,10 +40,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/ar51an/raspberrypi-motd/pull/3) in [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)
-2. 💪 Opened PR [#5](https://github.com/ar51an/raspberrypi-motd/pull/5) in [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)
-3. 💪 Opened PR [#4](https://github.com/ar51an/raspberrypi-motd/pull/4) in [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)
-4. 💪 Opened PR [#3](https://github.com/ar51an/raspberrypi-motd/pull/3) in [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)
+1. ❗️ Opened issue [#2](https://github.com/jonfairbanks/sonarr-episode-trimmer/issues/2) in [jonfairbanks/sonarr-episode-trimmer](https://github.com/jonfairbanks/sonarr-episode-trimmer)
+2. ❌ Closed PR [#3](https://github.com/ar51an/raspberrypi-motd/pull/3) in [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)
+3. 💪 Opened PR [#5](https://github.com/ar51an/raspberrypi-motd/pull/5) in [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)
+4. 💪 Opened PR [#4](https://github.com/ar51an/raspberrypi-motd/pull/4) in [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)
 <!--END_SECTION:activity-->
 
 ## Blog posts
