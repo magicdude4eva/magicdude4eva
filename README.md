@@ -40,10 +40,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5593](https://github.com/Sonarr/Sonarr/issues/5593) in [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
-2. 🗣 Commented on [#2](https://github.com/jonfairbanks/sonarr-episode-trimmer/issues/2) in [jonfairbanks/sonarr-episode-trimmer](https://github.com/jonfairbanks/sonarr-episode-trimmer)
-3. ❗ Opened issue [#5593](https://github.com/Sonarr/Sonarr/issues/5593) in [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
-4. 🗣 Commented on [#3386](https://github.com/sct/overseerr/issues/3386) in [sct/overseerr](https://github.com/sct/overseerr)
+1. 🗣 Commented on [#1](https://github.com/AlexFromChaos/synology_hibernation_fixer/issues/1) in [AlexFromChaos/synology_hibernation_fixer](https://github.com/AlexFromChaos/synology_hibernation_fixer)
+2. 🗣 Commented on [#5593](https://github.com/Sonarr/Sonarr/issues/5593) in [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
+3. 🗣 Commented on [#2](https://github.com/jonfairbanks/sonarr-episode-trimmer/issues/2) in [jonfairbanks/sonarr-episode-trimmer](https://github.com/jonfairbanks/sonarr-episode-trimmer)
+4. ❗ Opened issue [#5593](https://github.com/Sonarr/Sonarr/issues/5593) in [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
 <!--END_SECTION:activity-->
 
 ## Blog posts
