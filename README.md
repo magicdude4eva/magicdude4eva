@@ -40,10 +40,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/AlexFromChaos/synology_hibernation_fixer/issues/1#issuecomment-1599114507) in [AlexFromChaos/synology_hibernation_fixer](https://github.com/AlexFromChaos/synology_hibernation_fixer)
-2. 🗣 Commented on [#5593](https://github.com/Sonarr/Sonarr/issues/5593#issuecomment-1528827855) in [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
-3. 🗣 Commented on [#2](https://github.com/jonfairbanks/sonarr-episode-trimmer/issues/2#issuecomment-1528792973) in [jonfairbanks/sonarr-episode-trimmer](https://github.com/jonfairbanks/sonarr-episode-trimmer)
-4. ❗ Opened issue [#5593](https://github.com/Sonarr/Sonarr/issues/5593) in [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
+1. 🗣 Commented on [#119](https://github.com/007revad/Synology_HDD_db/issues/119#issuecomment-1649524242) in [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db)
+2. 🗣 Commented on [#119](https://github.com/007revad/Synology_HDD_db/issues/119#issuecomment-1649477371) in [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db)
+3. 🗣 Commented on [#1](https://github.com/AlexFromChaos/synology_hibernation_fixer/issues/1#issuecomment-1599114507) in [AlexFromChaos/synology_hibernation_fixer](https://github.com/AlexFromChaos/synology_hibernation_fixer)
+4. 🗣 Commented on [#5593](https://github.com/Sonarr/Sonarr/issues/5593#issuecomment-1528827855) in [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
 <!--END_SECTION:activity-->
 
 ## Blog posts
