@@ -20,7 +20,7 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gerd Naschenweng](https://www.linkedin.com/in/gerdnaschenweng/)&nbsp;&nbsp;🚀
 <br />
 
-I am a Techlead and R&D Development Manager at <strong>[Alturos Destinations](https://www.alturos.com/)</strong>.
+I am a Head of Development eOCS Klagenfurt at <strong>[eurofunk KAPPACHER GmbH](https://www.eurofunk.com/)</strong> where 👨‍💻 Leading Development at eOCS Klagenfurt | Empowering Control Centers & Emergency Response 🚨 has become my passion.
 
 I have been working with technology since 1992, and during this time I worked with the most diverse types of projects like: automative industry (Smart Cars with Daimler Chrysler), insurance, fin-tec, web programming, e-commerce, SAP business process management, business intelligence and tourism.
 
