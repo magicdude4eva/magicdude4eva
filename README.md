@@ -40,10 +40,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/magicdude4eva/kafka-full-stack-rest-proxy/pull/1) in [magicdude4eva/kafka-full-stack-rest-proxy](https://github.com/magicdude4eva/kafka-full-stack-rest-proxy)
-2. 🎉 Merged PR [#1](https://github.com/magicdude4eva/iterm-oh-my-zsh-powerlevel10k/pull/1) in [magicdude4eva/iterm-oh-my-zsh-powerlevel10k](https://github.com/magicdude4eva/iterm-oh-my-zsh-powerlevel10k)
-3. 🎉 Merged PR [#1](https://github.com/magicdude4eva/MD4ECryptoBot/pull/1) in [magicdude4eva/MD4ECryptoBot](https://github.com/magicdude4eva/MD4ECryptoBot)
-4. 🎉 Merged PR [#25](https://github.com/magicdude4eva/graylog-jira-alarmcallback/pull/25) in [magicdude4eva/graylog-jira-alarmcallback](https://github.com/magicdude4eva/graylog-jira-alarmcallback)
+1. 🎉 Merged PR [#1](https://github.com/magicdude4eva/profile-test/pull/1) in [magicdude4eva/profile-test](https://github.com/magicdude4eva/profile-test)
+2. 🎉 Merged PR [#40](https://github.com/magicdude4eva/port25-bouncehandler/pull/40) in [magicdude4eva/port25-bouncehandler](https://github.com/magicdude4eva/port25-bouncehandler)
+3. 🎉 Merged PR [#1](https://github.com/magicdude4eva/kafka-full-stack-rest-proxy/pull/1) in [magicdude4eva/kafka-full-stack-rest-proxy](https://github.com/magicdude4eva/kafka-full-stack-rest-proxy)
+4. 🎉 Merged PR [#1](https://github.com/magicdude4eva/iterm-oh-my-zsh-powerlevel10k/pull/1) in [magicdude4eva/iterm-oh-my-zsh-powerlevel10k](https://github.com/magicdude4eva/iterm-oh-my-zsh-powerlevel10k)
 <!--END_SECTION:activity-->
 
 ## Blog posts
