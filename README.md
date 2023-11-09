@@ -40,8 +40,8 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/magicdude4eva/magicdude4eva/pull/5) in [magicdude4eva/magicdude4eva](https://github.com/magicdude4eva/magicdude4eva)
-2. 🗣 Commented on [#119](https://github.com/007revad/Synology_HDD_db/issues/119#issuecomment-1649477371) in [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db)
+1. 💪 Opened PR [#1](https://github.com/alexanderkassl/incidents/pull/1) in [alexanderkassl/incidents](https://github.com/alexanderkassl/incidents)
+2. 🎉 Merged PR [#5](https://github.com/magicdude4eva/magicdude4eva/pull/5) in [magicdude4eva/magicdude4eva](https://github.com/magicdude4eva/magicdude4eva)
 3. 🗣 Commented on [#1](https://github.com/AlexFromChaos/synology_hibernation_fixer/issues/1#issuecomment-1599114507) in [AlexFromChaos/synology_hibernation_fixer](https://github.com/AlexFromChaos/synology_hibernation_fixer)
 4. 🗣 Commented on [#5593](https://github.com/Sonarr/Sonarr/issues/5593#issuecomment-1528827855) in [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)
 <!--END_SECTION:activity-->
