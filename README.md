@@ -40,10 +40,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/magicdude4eva/codewars/pull/1) in [magicdude4eva/codewars](https://github.com/magicdude4eva/codewars)
-2. 🎉 Merged PR [#2](https://github.com/magicdude4eva/mailwizz-nginx-seo/pull/2) in [magicdude4eva/mailwizz-nginx-seo](https://github.com/magicdude4eva/mailwizz-nginx-seo)
-3. 🎉 Merged PR [#1](https://github.com/magicdude4eva/cv-naschenweng-info-jekyll/pull/1) in [magicdude4eva/cv-naschenweng-info-jekyll](https://github.com/magicdude4eva/cv-naschenweng-info-jekyll)
-4. 🎉 Merged PR [#1](https://github.com/magicdude4eva/kayako-nginx-seo/pull/1) in [magicdude4eva/kayako-nginx-seo](https://github.com/magicdude4eva/kayako-nginx-seo)
+1. 🎉 Merged PR [#1](https://github.com/magicdude4eva/kafka-full-stack-rest-proxy/pull/1) in [magicdude4eva/kafka-full-stack-rest-proxy](https://github.com/magicdude4eva/kafka-full-stack-rest-proxy)
+2. 🎉 Merged PR [#1](https://github.com/magicdude4eva/iterm-oh-my-zsh-powerlevel10k/pull/1) in [magicdude4eva/iterm-oh-my-zsh-powerlevel10k](https://github.com/magicdude4eva/iterm-oh-my-zsh-powerlevel10k)
+3. 🎉 Merged PR [#1](https://github.com/magicdude4eva/MD4ECryptoBot/pull/1) in [magicdude4eva/MD4ECryptoBot](https://github.com/magicdude4eva/MD4ECryptoBot)
+4. 🎉 Merged PR [#25](https://github.com/magicdude4eva/graylog-jira-alarmcallback/pull/25) in [magicdude4eva/graylog-jira-alarmcallback](https://github.com/magicdude4eva/graylog-jira-alarmcallback)
 <!--END_SECTION:activity-->
 
 ## Blog posts
