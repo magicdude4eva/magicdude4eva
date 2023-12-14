@@ -40,10 +40,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/magicdude4eva/profile-test/pull/1) in [magicdude4eva/profile-test](https://github.com/magicdude4eva/profile-test)
-2. 🎉 Merged PR [#40](https://github.com/magicdude4eva/port25-bouncehandler/pull/40) in [magicdude4eva/port25-bouncehandler](https://github.com/magicdude4eva/port25-bouncehandler)
-3. 🎉 Merged PR [#1](https://github.com/magicdude4eva/kafka-full-stack-rest-proxy/pull/1) in [magicdude4eva/kafka-full-stack-rest-proxy](https://github.com/magicdude4eva/kafka-full-stack-rest-proxy)
-4. 🎉 Merged PR [#1](https://github.com/magicdude4eva/iterm-oh-my-zsh-powerlevel10k/pull/1) in [magicdude4eva/iterm-oh-my-zsh-powerlevel10k](https://github.com/magicdude4eva/iterm-oh-my-zsh-powerlevel10k)
+1. 🎉 Merged PR [#3](https://github.com/magicdude4eva/HackerRank/pull/3) in [magicdude4eva/HackerRank](https://github.com/magicdude4eva/HackerRank)
+2. 🎉 Merged PR [#2](https://github.com/magicdude4eva/gunbot.at-jekyll/pull/2) in [magicdude4eva/gunbot.at-jekyll](https://github.com/magicdude4eva/gunbot.at-jekyll)
+3. 🎉 Merged PR [#2](https://github.com/magicdude4eva/kafka-full-stack-rest-proxy/pull/2) in [magicdude4eva/kafka-full-stack-rest-proxy](https://github.com/magicdude4eva/kafka-full-stack-rest-proxy)
+4. 🎉 Merged PR [#2](https://github.com/magicdude4eva/gunbot.at/pull/2) in [magicdude4eva/gunbot.at](https://github.com/magicdude4eva/gunbot.at)
 <!--END_SECTION:activity-->
 
 ## Blog posts
