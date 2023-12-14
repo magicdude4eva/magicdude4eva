@@ -40,10 +40,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/magicdude4eva/PiHoleCloudFlareD/pull/4) in [magicdude4eva/PiHoleCloudFlareD](https://github.com/magicdude4eva/PiHoleCloudFlareD)
-2. 🎉 Merged PR [#2](https://github.com/magicdude4eva/kayako-nginx-seo/pull/2) in [magicdude4eva/kayako-nginx-seo](https://github.com/magicdude4eva/kayako-nginx-seo)
-3. 🎉 Merged PR [#3](https://github.com/magicdude4eva/mailwizz-nginx-seo/pull/3) in [magicdude4eva/mailwizz-nginx-seo](https://github.com/magicdude4eva/mailwizz-nginx-seo)
-4. 🎉 Merged PR [#2](https://github.com/magicdude4eva/iterm-oh-my-zsh-powerlevel10k/pull/2) in [magicdude4eva/iterm-oh-my-zsh-powerlevel10k](https://github.com/magicdude4eva/iterm-oh-my-zsh-powerlevel10k)
+1. 🎉 Merged PR [#5](https://github.com/magicdude4eva/PiHoleCloudFlareD/pull/5) in [magicdude4eva/PiHoleCloudFlareD](https://github.com/magicdude4eva/PiHoleCloudFlareD)
+2. 🎉 Merged PR [#4](https://github.com/magicdude4eva/.github/pull/4) in [magicdude4eva/.github](https://github.com/magicdude4eva/.github)
+3. 🎉 Merged PR [#3](https://github.com/magicdude4eva/kayako-nginx-seo/pull/3) in [magicdude4eva/kayako-nginx-seo](https://github.com/magicdude4eva/kayako-nginx-seo)
+4. 🎉 Merged PR [#3](https://github.com/magicdude4eva/cv-naschenweng-info/pull/3) in [magicdude4eva/cv-naschenweng-info](https://github.com/magicdude4eva/cv-naschenweng-info)
 <!--END_SECTION:activity-->
 
 ## Blog posts
