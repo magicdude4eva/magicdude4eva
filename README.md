@@ -40,10 +40,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1933](https://github.com/cagnulein/qdomyos-zwift/issues/1933) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
-2. 🎉 Merged PR [#5](https://github.com/magicdude4eva/PiHoleCloudFlareD/pull/5) in [magicdude4eva/PiHoleCloudFlareD](https://github.com/magicdude4eva/PiHoleCloudFlareD)
-3. 🎉 Merged PR [#4](https://github.com/magicdude4eva/.github/pull/4) in [magicdude4eva/.github](https://github.com/magicdude4eva/.github)
-4. 🎉 Merged PR [#3](https://github.com/magicdude4eva/kayako-nginx-seo/pull/3) in [magicdude4eva/kayako-nginx-seo](https://github.com/magicdude4eva/kayako-nginx-seo)
+1. 🗣 Commented on [#1933](https://github.com/cagnulein/qdomyos-zwift/issues/1933#issuecomment-1872992463) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
+2. ❗ Opened issue [#1933](https://github.com/cagnulein/qdomyos-zwift/issues/1933) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
+3. 🎉 Merged PR [#5](https://github.com/magicdude4eva/PiHoleCloudFlareD/pull/5) in [magicdude4eva/PiHoleCloudFlareD](https://github.com/magicdude4eva/PiHoleCloudFlareD)
+4. 🎉 Merged PR [#4](https://github.com/magicdude4eva/.github/pull/4) in [magicdude4eva/.github](https://github.com/magicdude4eva/.github)
 <!--END_SECTION:activity-->
 
 ## Blog posts
