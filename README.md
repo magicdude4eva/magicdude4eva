@@ -40,10 +40,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1933](https://github.com/cagnulein/qdomyos-zwift/issues/1933#issuecomment-1875582874) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
-2. 🔒 Closed issue [#1933](https://github.com/cagnulein/qdomyos-zwift/issues/1933) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
-3. 🗣 Commented on [#1933](https://github.com/cagnulein/qdomyos-zwift/issues/1933#issuecomment-1874289431) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
-4. 🗣 Commented on [#1933](https://github.com/cagnulein/qdomyos-zwift/issues/1933#issuecomment-1873265449) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
+1. 🗣 Commented on [#1933](https://github.com/cagnulein/qdomyos-zwift/issues/1933#issuecomment-1875791219) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
+2. 🗣 Commented on [#1933](https://github.com/cagnulein/qdomyos-zwift/issues/1933#issuecomment-1875582874) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
+3. 🔒 Closed issue [#1933](https://github.com/cagnulein/qdomyos-zwift/issues/1933) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
+4. 🗣 Commented on [#1933](https://github.com/cagnulein/qdomyos-zwift/issues/1933#issuecomment-1874289431) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
 <!--END_SECTION:activity-->
 
 ## Blog posts
