@@ -40,10 +40,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/magicdude4eva/MD4ECryptoBot/pull/2) in [magicdude4eva/MD4ECryptoBot](https://github.com/magicdude4eva/MD4ECryptoBot)
-2. 🎉 Merged PR [#6](https://github.com/magicdude4eva/PiHoleCloudFlareD/pull/6) in [magicdude4eva/PiHoleCloudFlareD](https://github.com/magicdude4eva/PiHoleCloudFlareD)
-3. 🗣 Commented on [#1933](https://github.com/cagnulein/qdomyos-zwift/issues/1933#issuecomment-1877522842) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
-4. 🎉 Merged PR [#7](https://github.com/magicdude4eva/docker-gunbot/pull/7) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
+1. 🎉 Merged PR [#2](https://github.com/magicdude4eva/issuer-icons/pull/2) in [magicdude4eva/issuer-icons](https://github.com/magicdude4eva/issuer-icons)
+2. 🎉 Merged PR [#1](https://github.com/magicdude4eva/UDM-Persistent-SSH-Keys/pull/1) in [magicdude4eva/UDM-Persistent-SSH-Keys](https://github.com/magicdude4eva/UDM-Persistent-SSH-Keys)
+3. 🎉 Merged PR [#1](https://github.com/magicdude4eva/docker-plex/pull/1) in [magicdude4eva/docker-plex](https://github.com/magicdude4eva/docker-plex)
+4. 🎉 Merged PR [#5](https://github.com/magicdude4eva/mailwizz-nginx-seo/pull/5) in [magicdude4eva/mailwizz-nginx-seo](https://github.com/magicdude4eva/mailwizz-nginx-seo)
 <!--END_SECTION:activity-->
 
 ## Blog posts
