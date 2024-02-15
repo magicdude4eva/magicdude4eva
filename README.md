@@ -40,10 +40,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/magicdude4eva/issuer-icons/pull/2) in [magicdude4eva/issuer-icons](https://github.com/magicdude4eva/issuer-icons)
-2. 🎉 Merged PR [#1](https://github.com/magicdude4eva/UDM-Persistent-SSH-Keys/pull/1) in [magicdude4eva/UDM-Persistent-SSH-Keys](https://github.com/magicdude4eva/UDM-Persistent-SSH-Keys)
-3. 🎉 Merged PR [#1](https://github.com/magicdude4eva/docker-plex/pull/1) in [magicdude4eva/docker-plex](https://github.com/magicdude4eva/docker-plex)
-4. 🎉 Merged PR [#5](https://github.com/magicdude4eva/mailwizz-nginx-seo/pull/5) in [magicdude4eva/mailwizz-nginx-seo](https://github.com/magicdude4eva/mailwizz-nginx-seo)
+1. 🎉 Merged PR [#8](https://github.com/magicdude4eva/magicdude4eva/pull/8) in [magicdude4eva/magicdude4eva](https://github.com/magicdude4eva/magicdude4eva)
+2. 🎉 Merged PR [#2](https://github.com/magicdude4eva/issuer-icons/pull/2) in [magicdude4eva/issuer-icons](https://github.com/magicdude4eva/issuer-icons)
+3. 🎉 Merged PR [#1](https://github.com/magicdude4eva/UDM-Persistent-SSH-Keys/pull/1) in [magicdude4eva/UDM-Persistent-SSH-Keys](https://github.com/magicdude4eva/UDM-Persistent-SSH-Keys)
+4. 🎉 Merged PR [#1](https://github.com/magicdude4eva/docker-plex/pull/1) in [magicdude4eva/docker-plex](https://github.com/magicdude4eva/docker-plex)
 <!--END_SECTION:activity-->
 
 ## Blog posts
