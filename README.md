@@ -40,8 +40,8 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Debian Bookworm / Crypto.com / Gunbgot v28.6.3](https://github.com/magicdude4eva/docker-gunbot/releases/tag/v28.6.3) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
-2. 🔒 Closed issue [#3](https://github.com/magicdude4eva/docker-gunbot/issues/3) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
+1. 🎉 Merged PR [#1](https://github.com/magicdude4eva/unbound-redis/pull/1) in [magicdude4eva/unbound-redis](https://github.com/magicdude4eva/unbound-redis)
+2. 💪 Opened PR [#1](https://github.com/magicdude4eva/unbound-redis/pull/1) in [magicdude4eva/unbound-redis](https://github.com/magicdude4eva/unbound-redis)
 3. 🗣 Commented on [#3](https://github.com/magicdude4eva/docker-gunbot/issues/3#issuecomment-1951233944) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
 4. 🎉 Merged PR [#8](https://github.com/magicdude4eva/magicdude4eva/pull/8) in [magicdude4eva/magicdude4eva](https://github.com/magicdude4eva/magicdude4eva)
 <!--END_SECTION:activity-->
