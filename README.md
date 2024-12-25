@@ -40,9 +40,9 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/magicdude4eva/unbound-redis/pull/1) in [magicdude4eva/unbound-redis](https://github.com/magicdude4eva/unbound-redis)
-2. 💪 Opened PR [#1](https://github.com/magicdude4eva/unbound-redis/pull/1) in [magicdude4eva/unbound-redis](https://github.com/magicdude4eva/unbound-redis)
-3. 🗣 Commented on [#3](https://github.com/magicdude4eva/docker-gunbot/issues/3#issuecomment-1951233944) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
+1. ❗ Opened issue [#2938](https://github.com/cagnulein/qdomyos-zwift/issues/2938) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
+2. 🎉 Merged PR [#1](https://github.com/magicdude4eva/unbound-redis/pull/1) in [magicdude4eva/unbound-redis](https://github.com/magicdude4eva/unbound-redis)
+3. 💪 Opened PR [#1](https://github.com/magicdude4eva/unbound-redis/pull/1) in [magicdude4eva/unbound-redis](https://github.com/magicdude4eva/unbound-redis)
 4. 🎉 Merged PR [#8](https://github.com/magicdude4eva/magicdude4eva/pull/8) in [magicdude4eva/magicdude4eva](https://github.com/magicdude4eva/magicdude4eva)
 <!--END_SECTION:activity-->
 
