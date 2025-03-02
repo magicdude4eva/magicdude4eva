@@ -1,6 +1,4 @@
 <div align="left">
-  <a rel="me" href="https://twitter.com/gerdnaschenweng">
-    <img src="https://img.shields.io/twitter/follow/gerdnaschenweng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff" alt="Twitter"/></a>
   <a rel="me" href="https://mastodon.cloud/@gerdnaschenweng">
     <img src="https://img.shields.io/mastodon/follow/109410730185529674?domain=https%3A%2F%2Fmastodon.cloud&label=Mastodon&logo=mastodon&style=flat-square&color=1da1f2&logoColor=ffffff" alt="Mastodon"/></a>
   <a rel="me" href="https://www.linkedin.com/in/gerdnaschenweng/">
