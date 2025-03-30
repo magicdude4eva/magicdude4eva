@@ -38,10 +38,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#136](https://github.com/beatkind/watchtower/issues/136) in [beatkind/watchtower](https://github.com/beatkind/watchtower)
-2. 🗣 Commented on [#1425](https://github.com/containrrr/watchtower/issues/1425#issuecomment-2764221220) in [containrrr/watchtower](https://github.com/containrrr/watchtower)
-3. 🔒 Closed issue [#1](https://github.com/magicdude4eva/calendar-sync/issues/1) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
-4. ❗ Opened issue [#1](https://github.com/magicdude4eva/calendar-sync/issues/1) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+1. 🚀 Published release [Initial Release with Recurring Event Support](https://github.com/magicdude4eva/calendar-sync/releases/tag/v1.1.0) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+2. ❗ Opened issue [#136](https://github.com/beatkind/watchtower/issues/136) in [beatkind/watchtower](https://github.com/beatkind/watchtower)
+3. 🗣 Commented on [#1425](https://github.com/containrrr/watchtower/issues/1425#issuecomment-2764221220) in [containrrr/watchtower](https://github.com/containrrr/watchtower)
+4. 🔒 Closed issue [#1](https://github.com/magicdude4eva/calendar-sync/issues/1) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
 <!--END_SECTION:activity-->
 
 ## Blog posts
