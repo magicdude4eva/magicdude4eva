@@ -38,10 +38,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/magicdude4eva/calendar-sync/issues/1) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
-2. ❗ Opened issue [#1](https://github.com/magicdude4eva/calendar-sync/issues/1) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
-3. ❌ Closed PR [#5](https://github.com/magicdude4eva/gunbot.at/pull/5) in [magicdude4eva/gunbot.at](https://github.com/magicdude4eva/gunbot.at)
-4. 🗣 Commented on [#3107](https://github.com/cagnulein/qdomyos-zwift/issues/3107#issuecomment-2619052003) in [cagnulein/qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift)
+1. ❗ Opened issue [#136](https://github.com/beatkind/watchtower/issues/136) in [beatkind/watchtower](https://github.com/beatkind/watchtower)
+2. 🗣 Commented on [#1425](https://github.com/containrrr/watchtower/issues/1425#issuecomment-2764221220) in [containrrr/watchtower](https://github.com/containrrr/watchtower)
+3. 🔒 Closed issue [#1](https://github.com/magicdude4eva/calendar-sync/issues/1) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+4. ❗ Opened issue [#1](https://github.com/magicdude4eva/calendar-sync/issues/1) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
 <!--END_SECTION:activity-->
 
 ## Blog posts
