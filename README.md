@@ -38,10 +38,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0 – Calendar Fixes & Extra Event Logging](https://github.com/magicdude4eva/calendar-sync/releases/tag/v1.2.0) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
-2. 🗣 Commented on [#136](https://github.com/beatkind/watchtower/issues/136#issuecomment-2764543370) in [beatkind/watchtower](https://github.com/beatkind/watchtower)
-3. 🚀 Published release [Initial Release with Recurring Event Support](https://github.com/magicdude4eva/calendar-sync/releases/tag/v1.1.0) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
-4. ❗ Opened issue [#136](https://github.com/beatkind/watchtower/issues/136) in [beatkind/watchtower](https://github.com/beatkind/watchtower)
+1. 🔒 Closed issue [#30](https://github.com/magicdude4eva/graylog-jira-alarmcallback/issues/30) in [magicdude4eva/graylog-jira-alarmcallback](https://github.com/magicdude4eva/graylog-jira-alarmcallback)
+2. 🚀 Published release [v1.1.0 – Calendar Fixes & Extra Event Logging](https://github.com/magicdude4eva/calendar-sync/releases/tag/v1.2.0) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+3. 🗣 Commented on [#136](https://github.com/beatkind/watchtower/issues/136#issuecomment-2764543370) in [beatkind/watchtower](https://github.com/beatkind/watchtower)
+4. 🚀 Published release [Initial Release with Recurring Event Support](https://github.com/magicdude4eva/calendar-sync/releases/tag/v1.1.0) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
 <!--END_SECTION:activity-->
 
 ## Blog posts
