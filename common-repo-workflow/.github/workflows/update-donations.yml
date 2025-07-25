@@ -13,7 +13,7 @@ jobs:
 
       - name: Download JS updater from central repo
         run: |
-          curl -s -o update-donations.js https://raw.githubusercontent.com/magicdude4eva/common-repo-workflow/main/update-donations.js
+          curl -s -o update-donations.js https://raw.githubusercontent.com/magicdude4eva/magicdude4eva/refs/heads/main/common-repo-workflow/update-donations.js
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
