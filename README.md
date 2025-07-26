@@ -38,10 +38,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/magicdude4eva/calendar-sync/issues/2#issuecomment-3122134459) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
-2. 🎉 Merged PR [#5](https://github.com/magicdude4eva/profile-test/pull/5) in [magicdude4eva/profile-test](https://github.com/magicdude4eva/profile-test)
-3. 🎉 Merged PR [#5](https://github.com/magicdude4eva/kafka-full-stack-rest-proxy/pull/5) in [magicdude4eva/kafka-full-stack-rest-proxy](https://github.com/magicdude4eva/kafka-full-stack-rest-proxy)
-4. 🎉 Merged PR [#5](https://github.com/magicdude4eva/codewars/pull/5) in [magicdude4eva/codewars](https://github.com/magicdude4eva/codewars)
+1. 🗣 Commented on [#2](https://github.com/magicdude4eva/calendar-sync/issues/2#issuecomment-3122197282) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+2. 🚀 Published release [v1.3.0 - UTF8 Encoding fixes](https://github.com/magicdude4eva/calendar-sync/releases/tag/v1.3.0) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+3. 🗣 Commented on [#2](https://github.com/magicdude4eva/calendar-sync/issues/2#issuecomment-3122134459) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+4. 🎉 Merged PR [#5](https://github.com/magicdude4eva/profile-test/pull/5) in [magicdude4eva/profile-test](https://github.com/magicdude4eva/profile-test)
 <!--END_SECTION:activity-->
 
 ## Blog posts
