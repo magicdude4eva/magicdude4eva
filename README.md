@@ -38,10 +38,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/magicdude4eva/kafka-full-stack-rest-proxy/pull/5) in [magicdude4eva/kafka-full-stack-rest-proxy](https://github.com/magicdude4eva/kafka-full-stack-rest-proxy)
-2. 🎉 Merged PR [#5](https://github.com/magicdude4eva/codewars/pull/5) in [magicdude4eva/codewars](https://github.com/magicdude4eva/codewars)
-3. 🎉 Merged PR [#5](https://github.com/magicdude4eva/.github/pull/5) in [magicdude4eva/.github](https://github.com/magicdude4eva/.github)
-4. 🎉 Merged PR [#5](https://github.com/magicdude4eva/gunbot.at-jekyll/pull/5) in [magicdude4eva/gunbot.at-jekyll](https://github.com/magicdude4eva/gunbot.at-jekyll)
+1. 🎉 Merged PR [#5](https://github.com/magicdude4eva/profile-test/pull/5) in [magicdude4eva/profile-test](https://github.com/magicdude4eva/profile-test)
+2. 🎉 Merged PR [#5](https://github.com/magicdude4eva/kafka-full-stack-rest-proxy/pull/5) in [magicdude4eva/kafka-full-stack-rest-proxy](https://github.com/magicdude4eva/kafka-full-stack-rest-proxy)
+3. 🎉 Merged PR [#5](https://github.com/magicdude4eva/codewars/pull/5) in [magicdude4eva/codewars](https://github.com/magicdude4eva/codewars)
+4. 🎉 Merged PR [#5](https://github.com/magicdude4eva/.github/pull/5) in [magicdude4eva/.github](https://github.com/magicdude4eva/.github)
 <!--END_SECTION:activity-->
 
 ## Blog posts
