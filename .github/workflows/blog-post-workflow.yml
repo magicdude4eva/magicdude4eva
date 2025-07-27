@@ -12,6 +12,6 @@ jobs:
       - name: Wordpress
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.naschenweng.info/feed"
+          feed_list: "https://www.naschenweng.eu/feed"
           disable_item_validation: true
 
