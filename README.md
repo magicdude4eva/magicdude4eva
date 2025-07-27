@@ -38,10 +38,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/magicdude4eva/calendar-sync/issues/2#issuecomment-3124234786) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
-2. 🗣 Commented on [#2](https://github.com/magicdude4eva/calendar-sync/issues/2#issuecomment-3122197282) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
-3. 🚀 Published release [v1.3.0 - UTF8 Encoding fixes](https://github.com/magicdude4eva/calendar-sync/releases/tag/v1.3.0) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
-4. 🗣 Commented on [#2](https://github.com/magicdude4eva/calendar-sync/issues/2#issuecomment-3122134459) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+1. ❗ Opened issue [#222](https://github.com/shufps/ESP-Miner-NerdQAxePlus/issues/222) in [shufps/ESP-Miner-NerdQAxePlus](https://github.com/shufps/ESP-Miner-NerdQAxePlus)
+2. 🗣 Commented on [#2](https://github.com/magicdude4eva/calendar-sync/issues/2#issuecomment-3124234786) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+3. 🗣 Commented on [#2](https://github.com/magicdude4eva/calendar-sync/issues/2#issuecomment-3122197282) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+4. 🚀 Published release [v1.3.0 - UTF8 Encoding fixes](https://github.com/magicdude4eva/calendar-sync/releases/tag/v1.3.0) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
 <!--END_SECTION:activity-->
 
 ## Blog posts
