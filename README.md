@@ -38,10 +38,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13416](https://github.com/microsoft/WSL/issues/13416#issuecomment-3405823044) in [microsoft/WSL](https://github.com/microsoft/WSL)
-2. 🗣 Commented on [#13416](https://github.com/microsoft/WSL/issues/13416#issuecomment-3404996393) in [microsoft/WSL](https://github.com/microsoft/WSL)
-3. 🗣 Commented on [#13416](https://github.com/microsoft/WSL/issues/13416#issuecomment-3401324742) in [microsoft/WSL](https://github.com/microsoft/WSL)
-4. 💪 Opened PR [#11300](undefined) in [godotengine/godot-docs](https://github.com/godotengine/godot-docs)
+1. 🗣 Commented on [#10](https://github.com/magicdude4eva/docker-gunbot/issues/10#issuecomment-3448066858) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
+2. 🗣 Commented on [#13416](https://github.com/microsoft/WSL/issues/13416#issuecomment-3405823044) in [microsoft/WSL](https://github.com/microsoft/WSL)
+3. 🗣 Commented on [#13416](https://github.com/microsoft/WSL/issues/13416#issuecomment-3404996393) in [microsoft/WSL](https://github.com/microsoft/WSL)
+4. 🗣 Commented on [#13416](https://github.com/microsoft/WSL/issues/13416#issuecomment-3401324742) in [microsoft/WSL](https://github.com/microsoft/WSL)
 <!--END_SECTION:activity-->
 
 ## Blog posts
