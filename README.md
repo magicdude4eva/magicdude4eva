@@ -38,10 +38,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/magicdude4eva/docker-gunbot/issues/10) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
-2. 🗣 Commented on [#10](https://github.com/magicdude4eva/docker-gunbot/issues/10#issuecomment-3574190891) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
-3. 🚀 Published release [Release 1.4.1 - support multiple config files](https://github.com/magicdude4eva/calendar-sync/releases/tag/v1.4.1) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
-4. 🗣 Commented on [#5](https://github.com/magicdude4eva/calendar-sync/issues/5#issuecomment-3506076759) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+1. ❌ Merged PR [#11300](undefined) in [godotengine/godot-docs](https://github.com/godotengine/godot-docs)
+2. 🔒 Closed issue [#10](https://github.com/magicdude4eva/docker-gunbot/issues/10) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
+3. 🗣 Commented on [#10](https://github.com/magicdude4eva/docker-gunbot/issues/10#issuecomment-3574190891) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
+4. 🚀 Published release [Release 1.4.1 - support multiple config files](https://github.com/magicdude4eva/calendar-sync/releases/tag/v1.4.1) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
 <!--END_SECTION:activity-->
 
 ## Blog posts
