@@ -38,10 +38,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#534](https://github.com/007revad/Synology_HDD_db/issues/534#issuecomment-3625053486) in [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db)
-2. 🗣 Commented on [#534](https://github.com/007revad/Synology_HDD_db/issues/534#issuecomment-3622935601) in [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db)
-3. ❗ Opened issue [#534](https://github.com/007revad/Synology_HDD_db/issues/534) in [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db)
-4. ❌ Merged PR [#11300](undefined) in [godotengine/godot-docs](https://github.com/godotengine/godot-docs)
+1. 🗣 Commented on [#534](https://github.com/007revad/Synology_HDD_db/issues/534#issuecomment-3643072721) in [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db)
+2. 🗣 Commented on [#534](https://github.com/007revad/Synology_HDD_db/issues/534#issuecomment-3625053486) in [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db)
+3. 🗣 Commented on [#534](https://github.com/007revad/Synology_HDD_db/issues/534#issuecomment-3622935601) in [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db)
+4. ❗ Opened issue [#534](https://github.com/007revad/Synology_HDD_db/issues/534) in [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db)
 <!--END_SECTION:activity-->
 
 ## Blog posts
