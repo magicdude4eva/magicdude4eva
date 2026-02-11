@@ -38,8 +38,8 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1154](https://github.com/mylinuxforwork/dotfiles/issues/1154#issuecomment-3765614824) in [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
-2. 🎉 Merged PR [#14016](https://github.com/laurent22/joplin/pull/14016) in [laurent22/joplin](https://github.com/laurent22/joplin)
+1. 🗣 Commented on [#2993](https://github.com/end-4/dots-hyprland/issues/2993#issuecomment-3885747279) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
+2. 🗣 Commented on [#1154](https://github.com/mylinuxforwork/dotfiles/issues/1154#issuecomment-3765614824) in [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles)
 3. 🗣 Commented on [#14016](https://github.com/laurent22/joplin/pull/14016#issuecomment-3703803366) in [laurent22/joplin](https://github.com/laurent22/joplin)
 4. 🗣 Commented on [#14016](https://github.com/laurent22/joplin/pull/14016#issuecomment-3703803145) in [laurent22/joplin](https://github.com/laurent22/joplin)
 <!--END_SECTION:activity-->
