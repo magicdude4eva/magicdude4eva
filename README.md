@@ -38,9 +38,9 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/magicdude4eva/calendar-sync/issues/7#issuecomment-3993056525) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
-2. 🗣 Commented on [#3053](https://github.com/end-4/dots-hyprland/issues/3053#issuecomment-3977565727) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
-3. 🗣 Commented on [#2993](https://github.com/end-4/dots-hyprland/issues/2993#issuecomment-3888768709) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
+1. ❗ Opened issue [#696](https://github.com/micz/ThunderAI/issues/696) in [micz/ThunderAI](https://github.com/micz/ThunderAI)
+2. 🗣 Commented on [#7](https://github.com/magicdude4eva/calendar-sync/issues/7#issuecomment-3993056525) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+3. 🗣 Commented on [#3053](https://github.com/end-4/dots-hyprland/issues/3053#issuecomment-3977565727) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
 4. 🗣 Commented on [#2993](https://github.com/end-4/dots-hyprland/issues/2993#issuecomment-3885747279) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
 <!--END_SECTION:activity-->
 
