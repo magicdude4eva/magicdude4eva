@@ -38,10 +38,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#52](https://github.com/mikebowler/jirametrics/issues/52) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
-2. ❗ Opened issue [#696](https://github.com/micz/ThunderAI/issues/696) in [micz/ThunderAI](https://github.com/micz/ThunderAI)
-3. 🗣 Commented on [#7](https://github.com/magicdude4eva/calendar-sync/issues/7#issuecomment-3993056525) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
-4. 🗣 Commented on [#3053](https://github.com/end-4/dots-hyprland/issues/3053#issuecomment-3977565727) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
+1. 🗣 Commented on [#52](https://github.com/mikebowler/jirametrics/issues/52#issuecomment-4091028134) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+2. ❗ Opened issue [#52](https://github.com/mikebowler/jirametrics/issues/52) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+3. ❗ Opened issue [#696](https://github.com/micz/ThunderAI/issues/696) in [micz/ThunderAI](https://github.com/micz/ThunderAI)
+4. 🗣 Commented on [#7](https://github.com/magicdude4eva/calendar-sync/issues/7#issuecomment-3993056525) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
 <!--END_SECTION:activity-->
 
 ## Blog posts
