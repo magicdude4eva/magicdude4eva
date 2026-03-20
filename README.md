@@ -38,10 +38,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/mikebowler/jirametrics/issues/52#issuecomment-4091028134) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
-2. ❗ Opened issue [#52](https://github.com/mikebowler/jirametrics/issues/52) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
-3. ❗ Opened issue [#696](https://github.com/micz/ThunderAI/issues/696) in [micz/ThunderAI](https://github.com/micz/ThunderAI)
-4. 🗣 Commented on [#7](https://github.com/magicdude4eva/calendar-sync/issues/7#issuecomment-3993056525) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+1. ❗ Opened issue [#55](https://github.com/mikebowler/jirametrics/issues/55) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+2. ❗ Opened issue [#54](https://github.com/mikebowler/jirametrics/issues/54) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+3. ❗ Opened issue [#53](https://github.com/mikebowler/jirametrics/issues/53) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+4. 🗣 Commented on [#52](https://github.com/mikebowler/jirametrics/issues/52#issuecomment-4095860546) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
 <!--END_SECTION:activity-->
 
 ## Blog posts
