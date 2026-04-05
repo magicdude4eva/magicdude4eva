@@ -38,10 +38,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#696](https://github.com/micz/ThunderAI/issues/696#issuecomment-4186771196) in [micz/ThunderAI](https://github.com/micz/ThunderAI)
-2. 🗣 Commented on [#696](https://github.com/micz/ThunderAI/issues/696#issuecomment-4183483782) in [micz/ThunderAI](https://github.com/micz/ThunderAI)
-3. 🔒 Closed issue [#63](https://github.com/mikebowler/jirametrics/issues/63) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
-4. 🗣 Commented on [#63](https://github.com/mikebowler/jirametrics/issues/63#issuecomment-4153043554) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+1. 🗣 Commented on [#696](https://github.com/micz/ThunderAI/issues/696#issuecomment-4188755157) in [micz/ThunderAI](https://github.com/micz/ThunderAI)
+2. 🗣 Commented on [#696](https://github.com/micz/ThunderAI/issues/696#issuecomment-4186771196) in [micz/ThunderAI](https://github.com/micz/ThunderAI)
+3. 🗣 Commented on [#696](https://github.com/micz/ThunderAI/issues/696#issuecomment-4183483782) in [micz/ThunderAI](https://github.com/micz/ThunderAI)
+4. 🔒 Closed issue [#63](https://github.com/mikebowler/jirametrics/issues/63) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
 <!--END_SECTION:activity-->
 
 ## Blog posts
