@@ -38,10 +38,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#696](https://github.com/micz/ThunderAI/issues/696#issuecomment-4190953876) in [micz/ThunderAI](https://github.com/micz/ThunderAI)
-2. 🗣 Commented on [#696](https://github.com/micz/ThunderAI/issues/696#issuecomment-4188755157) in [micz/ThunderAI](https://github.com/micz/ThunderAI)
-3. 🗣 Commented on [#696](https://github.com/micz/ThunderAI/issues/696#issuecomment-4186771196) in [micz/ThunderAI](https://github.com/micz/ThunderAI)
-4. 🗣 Commented on [#696](https://github.com/micz/ThunderAI/issues/696#issuecomment-4183483782) in [micz/ThunderAI](https://github.com/micz/ThunderAI)
+1. 🔒 Closed issue [#4](https://github.com/bluenazgul/unifi-device-card/issues/4) in [bluenazgul/unifi-device-card](https://github.com/bluenazgul/unifi-device-card)
+2. 🗣 Commented on [#4](https://github.com/bluenazgul/unifi-device-card/issues/4#issuecomment-4191871131) in [bluenazgul/unifi-device-card](https://github.com/bluenazgul/unifi-device-card)
+3. ❗ Opened issue [#4](https://github.com/bluenazgul/unifi-device-card/issues/4) in [bluenazgul/unifi-device-card](https://github.com/bluenazgul/unifi-device-card)
+4. 🗣 Commented on [#696](https://github.com/micz/ThunderAI/issues/696#issuecomment-4190953876) in [micz/ThunderAI](https://github.com/micz/ThunderAI)
 <!--END_SECTION:activity-->
 
 ## Blog posts
