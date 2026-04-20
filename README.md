@@ -38,10 +38,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/mikebowler/jirametrics/issues/67#issuecomment-4235050269) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
-2. 🔒 Closed issue [#67](https://github.com/mikebowler/jirametrics/issues/67) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
-3. 🗣 Commented on [#67](https://github.com/mikebowler/jirametrics/issues/67#issuecomment-4224184292) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
-4. 🗣 Commented on [#67](https://github.com/mikebowler/jirametrics/issues/67#issuecomment-4224032338) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+1. ❗ Opened issue [#69](https://github.com/mikebowler/jirametrics/issues/69) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+2. ❗ Opened issue [#68](https://github.com/mikebowler/jirametrics/issues/68) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+3. 🗣 Commented on [#67](https://github.com/mikebowler/jirametrics/issues/67#issuecomment-4235050269) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+4. 🔒 Closed issue [#67](https://github.com/mikebowler/jirametrics/issues/67) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
 <!--END_SECTION:activity-->
 
 ## Blog posts
