@@ -38,10 +38,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7](https://github.com/magicdude4eva/calendar-sync/issues/7) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
-2. 🔒 Closed issue [#8](https://github.com/magicdude4eva/calendar-sync/issues/8) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
-3. 🗣 Commented on [#8](https://github.com/magicdude4eva/calendar-sync/issues/8#issuecomment-4395831714) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
-4. 🗣 Commented on [#211](https://github.com/FrameworkComputer/SoftwareFirmwareIssueTracker/issues/211#issuecomment-4388061124) in [FrameworkComputer/SoftwareFirmwareIssueTracker](https://github.com/FrameworkComputer/SoftwareFirmwareIssueTracker)
+1. 🗣 Commented on [#211](https://github.com/FrameworkComputer/SoftwareFirmwareIssueTracker/issues/211#issuecomment-4489634720) in [FrameworkComputer/SoftwareFirmwareIssueTracker](https://github.com/FrameworkComputer/SoftwareFirmwareIssueTracker)
+2. 🔒 Closed issue [#7](https://github.com/magicdude4eva/calendar-sync/issues/7) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+3. 🔒 Closed issue [#8](https://github.com/magicdude4eva/calendar-sync/issues/8) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+4. 🗣 Commented on [#8](https://github.com/magicdude4eva/calendar-sync/issues/8#issuecomment-4395831714) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
 <!--END_SECTION:activity-->
 
 ## Blog posts
