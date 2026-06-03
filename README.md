@@ -38,10 +38,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#73](https://github.com/mikebowler/jirametrics/pull/73) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
-2. 🗣 Commented on [#9](https://github.com/magicdude4eva/calendar-sync/issues/9#issuecomment-4525805628) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
-3. 🚀 Published release [v1.4.2 - Event Colors & Category Support](https://github.com/magicdude4eva/calendar-sync/releases/tag/v1.4.2) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
-4. 🗣 Commented on [#9](https://github.com/magicdude4eva/calendar-sync/issues/9#issuecomment-4525568059) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+1. 🗣 Commented on [#73](https://github.com/mikebowler/jirametrics/pull/73#issuecomment-4609575315) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+2. 💪 Opened PR [#73](https://github.com/mikebowler/jirametrics/pull/73) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+3. 🗣 Commented on [#9](https://github.com/magicdude4eva/calendar-sync/issues/9#issuecomment-4525805628) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+4. 🚀 Published release [v1.4.2 - Event Colors & Category Support](https://github.com/magicdude4eva/calendar-sync/releases/tag/v1.4.2) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
 <!--END_SECTION:activity-->
 
 ## Blog posts
