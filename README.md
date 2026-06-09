@@ -38,10 +38,10 @@ What has enchanted me the most is working on projects where we can solve day-to-
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/magicdude4eva/btc-fullnode-stack/issues/2#issuecomment-4621243518) in [magicdude4eva/btc-fullnode-stack](https://github.com/magicdude4eva/btc-fullnode-stack)
-2. 🗣 Commented on [#73](https://github.com/mikebowler/jirametrics/pull/73#issuecomment-4609575315) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
-3. 💪 Opened PR [#73](https://github.com/mikebowler/jirametrics/pull/73) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
-4. 🗣 Commented on [#9](https://github.com/magicdude4eva/calendar-sync/issues/9#issuecomment-4525805628) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+1. ❗ Opened issue [#75](https://github.com/mikebowler/jirametrics/issues/75) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+2. 🗣 Commented on [#2](https://github.com/magicdude4eva/btc-fullnode-stack/issues/2#issuecomment-4621243518) in [magicdude4eva/btc-fullnode-stack](https://github.com/magicdude4eva/btc-fullnode-stack)
+3. 🗣 Commented on [#73](https://github.com/mikebowler/jirametrics/pull/73#issuecomment-4609575315) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+4. 💪 Opened PR [#73](https://github.com/mikebowler/jirametrics/pull/73) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
 <!--END_SECTION:activity-->
 
 ## Blog posts
