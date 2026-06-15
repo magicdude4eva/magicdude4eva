@@ -1,9 +1,4 @@
 <div align="left">
-  <a rel="me" href="https://mastodon.cloud/@gerdnaschenweng">
-    <img src="https://img.shields.io/mastodon/follow/109410730185529674?domain=https%3A%2F%2Fmastodon.cloud&label=Mastodon&logo=mastodon&style=flat-square&color=1da1f2&logoColor=ffffff" alt="Mastodon"/></a>
-  <a rel="me" href="https://www.linkedin.com/in/gerdnaschenweng/">
-    <img src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86" alt="LinkedIn"/></a>  
-
   <a rel="me" href="https://app.daily.dev/magicdude4eva" target="_blank">
     <img
       width="256" align="right"
@@ -16,19 +11,66 @@
 <br />
 
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gerd Naschenweng](https://www.linkedin.com/in/gerdnaschenweng/)&nbsp;&nbsp;🚀
-<br />
 
-I am a Head of Development eOCS Klagenfurt at <strong>[eurofunk KAPPACHER GmbH](https://www.eurofunk.com/)</strong> where 👨‍💻 Leading Development at eOCS Klagenfurt | Empowering Control Centers & Emergency Response 🚨 has become my passion.
+**Head of Development / Engineering Manager | Java | DevOps | Agile Leadership | Klagenfurt, Austria**
 
-I have been working with technology since 1992, and during this time I worked with the most diverse types of projects like: automative industry (Smart Cars with Daimler Chrysler), insurance, fin-tec, web programming, e-commerce, SAP business process management, business intelligence and tourism.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerdnaschenweng/)
+[![Website](https://img.shields.io/badge/Website-naschenweng.eu-4A90E2?style=flat-square&logo=google-chrome&logoColor=white)](https://naschenweng.eu)
+[![XING](https://img.shields.io/badge/XING-006567?style=flat-square&logo=xing&logoColor=white)](https://www.xing.com/profile/Gerd_Naschenweng)
 
-What has enchanted me the most is working on projects where we can solve day-to-day problems, impacting all society and making the world a better place.
-<br />
 
-## 👩‍💻 About me
-- 👨‍💻 I am passionate about software & people and I enjoy learning new things.
-- 🤔 I am a tech enthusiast & an open-source advocate.
-- 🔭 Always open to collaborating on projects and innovative/disruptive ideas. 
+### 🚀 About Me
+With **20+ years of experience** in software development and engineering leadership, I specialize in **scaling agile teams**, **driving technical excellence**, and **delivering mission-critical systems** that solve real-world problems. My passion lies in **empowering teams** to build innovative solutions that **impact society** - whether in **public safety, e-commerce, finance, or telecommunications**.
+
+Currently, I lead **24 developers across 3 agile teams** at [eurofunk](https://www.eurofunk.com/), focusing on **eOCS>COM** - a next-generation communication system for emergency response. My work includes:
+- **Agile Transformation**: Transitioning teams from SAFe to **flow-based/Kanban methodologies**.
+- **Team Development**: Initiating the **Skill Development Programme (SDP)** and cross-training **33 frontend engineers into full-stack developers in 3 months**.
+- **Technical Leadership**: Driving **Java/SpringBoot, microservices, and cloud-native architectures**.
+
+
+### 🛠️ My Skills
+#### **Leadership & Management**
+✅ **Engineering Management & Team Leadership** (20+ years)<br />
+✅ **Agile Coaching & Transformation** (SAFe → Flow/Kanban)<br />
+✅ **Strategic Planning & Technical Roadmapping**<br />
+✅ **Change Management & Process Improvement**<br />
+
+#### **Technical Expertise**
+💻 **Languages**: Java | SpringBoot | JavaScript/TypeScript | Python | Ruby | Perl<br />
+🔧 **Architecture**: J2EE | Microservices | Cloud-Native (AWS/Azure/GCP) | DevOps<br />
+🗄️ **Databases**: PostgreSQL | Oracle | MySQL | IBM DB2 | ElasticSearch<br />
+⚙️ **Tools**: Docker | Kubernetes | Jenkins | GitLab | JIRA | Confluence | New Relic<br />
+
+
+#### 🌍 Industry Experience
+🏦 **Financial Services**: Banking & Insurance (Vodacom, FNB, DBV Winterthur)<br />
+🛒 **E-Commerce**: bidorbuy.co.za (Africa’s largest marketplace, **100K orders/day**)<br />
+📡 **Telecommunications**: Vodacom (**12 call centers, 15K users**)<br />
+🚗 **Automotive**: Smart.com (DaimlerChrysler, franchise IT setup)<br />
+🏥 **Public Sector**: CEDA (Botswana, loan origination systems)<br />
+
+
+### 📌 My Projects
+Here are some of my **public projects** (most are under NDA):
+ | **Project** | **Description** | **Tech Stack** |
+ |-------------|----------------|----------------|
+ | [docker-jirametrics](https://github.com/magicdude4eva/docker-jirametrics) | Dockerized JIRA metrics analysis tool for **team performance tracking** | Docker, Ruby, JIRA API |
+ | [btc-fullnode-stack](https://github.com/magicdude4eva/btc-fullnode-stack) | Dockerized Bitcoin full node with **Blockstream Satellite & Lightning Network** | Docker, Bitcoin, Lightning |
+ | [graylog-jira-alarmcallback](https://github.com/magicdude4eva/graylog-jira-alarmcallback) | Graylog plugin for **automatic JIRA task creation from alerts** | Java, Graylog, JIRA API |
+ | [port25-bouncehandler](https://github.com/magicdude4eva/port25-bouncehandler) | PowerMTA bounce handler for **Interspire & MailWizz** | PHP, PowerMTA |
+ | [PiHoleCloudFlareD](https://github.com/magicdude4eva/PiHoleCloudFlareD) | Raspberry Pi ad-blocker with **Pi-Hole & CloudflareD** | Raspberry Pi, Pi-Hole, Cloudflare |
+
+**🔗 [View all my repositories](https://github.com/magicdude4eva?tab=repositories)**
+
+
+
+## 📞 Let's Connect!
+I’m always open to **collaborating on innovative projects**, **discussing tech trends**, or **exploring new opportunities**. Feel free to reach out!
+
+🔗 **LinkedIn**: [linkedin.com/in/gerdnaschenweng](https://www.linkedin.com/in/gerdnaschenweng)
+🌐 **Website**: [naschenweng.eu](https://naschenweng.eu)
+
+
 
 <p align="center">
   <img height="50%" align="center"  width="auto" src ="https://github-readme-stats.vercel.app/api?username=magicdude4eva&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000">
