@@ -80,10 +80,10 @@ I’m always open to **collaborating on innovative projects**, **discussing tech
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#589](https://github.com/007revad/Synology_HDD_db/issues/589#issuecomment-4732628176) in [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db)
-2. 🗣 Commented on [#75](https://github.com/mikebowler/jirametrics/issues/75#issuecomment-4704901036) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
-3. 🗣 Commented on [#75](https://github.com/mikebowler/jirametrics/issues/75#issuecomment-4677685550) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
-4. 🗣 Commented on [#75](https://github.com/mikebowler/jirametrics/issues/75#issuecomment-4667474372) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+1. 🔒 Closed issue [#12](https://github.com/magicdude4eva/calendar-sync/issues/12) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+2. 🗣 Commented on [#589](https://github.com/007revad/Synology_HDD_db/issues/589#issuecomment-4732628176) in [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db)
+3. 🗣 Commented on [#75](https://github.com/mikebowler/jirametrics/issues/75#issuecomment-4704901036) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+4. 🗣 Commented on [#75](https://github.com/mikebowler/jirametrics/issues/75#issuecomment-4677685550) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
 <!--END_SECTION:activity-->
 
 ## Blog posts
