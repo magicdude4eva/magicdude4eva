@@ -80,10 +80,10 @@ I’m always open to **collaborating on innovative projects**, **discussing tech
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/magicdude4eva/calendar-sync/issues/12) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
-2. 🗣 Commented on [#589](https://github.com/007revad/Synology_HDD_db/issues/589#issuecomment-4732628176) in [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db)
-3. 🗣 Commented on [#75](https://github.com/mikebowler/jirametrics/issues/75#issuecomment-4704901036) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
-4. 🗣 Commented on [#75](https://github.com/mikebowler/jirametrics/issues/75#issuecomment-4677685550) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+1. 🔒 Closed issue [#11](https://github.com/magicdude4eva/calendar-sync/issues/11) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+2. 🚀 Published release [v1.4.3 - Event Filtering & Dependency Fixes](https://github.com/magicdude4eva/calendar-sync/releases/tag/v1.4.3) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+3. 🗣 Commented on [#11](https://github.com/magicdude4eva/calendar-sync/issues/11#issuecomment-4881280377) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+4. 🔒 Closed issue [#12](https://github.com/magicdude4eva/calendar-sync/issues/12) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
 <!--END_SECTION:activity-->
 
 ## Blog posts
