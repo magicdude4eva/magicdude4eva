@@ -80,10 +80,10 @@ I’m always open to **collaborating on innovative projects**, **discussing tech
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#3398](https://github.com/noctalia-dev/noctalia/issues/3398) in [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia)
-2. ❗ Opened issue [#3398](https://github.com/noctalia-dev/noctalia/issues/3398) in [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia)
-3. 🔒 Closed issue [#11](https://github.com/magicdude4eva/calendar-sync/issues/11) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
-4. 🚀 Published release [v1.4.3 - Event Filtering & Dependency Fixes](https://github.com/magicdude4eva/calendar-sync/releases/tag/v1.4.3) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+1. 🗣 Commented on [#3398](https://github.com/noctalia-dev/noctalia/issues/3398#issuecomment-4959843108) in [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia)
+2. 🔒 Closed issue [#3398](https://github.com/noctalia-dev/noctalia/issues/3398) in [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia)
+3. ℹ️ Labeled issue [#3398](https://github.com/noctalia-dev/noctalia/issues/3398) in [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia)
+4. ❗ Opened issue [#3398](https://github.com/noctalia-dev/noctalia/issues/3398) in [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia)
 <!--END_SECTION:activity-->
 
 ## Blog posts
