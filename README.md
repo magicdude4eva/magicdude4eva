@@ -80,10 +80,10 @@ I’m always open to **collaborating on innovative projects**, **discussing tech
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3398](https://github.com/noctalia-dev/noctalia/issues/3398#issuecomment-4959843108) in [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia)
-2. 🔒 Closed issue [#3398](https://github.com/noctalia-dev/noctalia/issues/3398) in [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia)
-3. ℹ️ Labeled issue [#3398](https://github.com/noctalia-dev/noctalia/issues/3398) in [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia)
-4. ❗ Opened issue [#3398](https://github.com/noctalia-dev/noctalia/issues/3398) in [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia)
+1. 💪 Opened PR [#16](https://github.com/CachyOS/cachyos-hypr-noctalia/pull/16) in [CachyOS/cachyos-hypr-noctalia](https://github.com/CachyOS/cachyos-hypr-noctalia)
+2. 🎉 Merged PR [#1](https://github.com/magicdude4eva/cachyos-hypr-noctalia/pull/1) in [magicdude4eva/cachyos-hypr-noctalia](https://github.com/magicdude4eva/cachyos-hypr-noctalia)
+3. 💪 Opened PR [#1](https://github.com/magicdude4eva/cachyos-hypr-noctalia/pull/1) in [magicdude4eva/cachyos-hypr-noctalia](https://github.com/magicdude4eva/cachyos-hypr-noctalia)
+4. 🗣 Commented on [#3398](https://github.com/noctalia-dev/noctalia/issues/3398#issuecomment-4959843108) in [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia)
 <!--END_SECTION:activity-->
 
 ## Blog posts
