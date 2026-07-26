@@ -80,10 +80,10 @@ I’m always open to **collaborating on innovative projects**, **discussing tech
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/CachyOS/cachyos-hypr-noctalia/pull/18) in [CachyOS/cachyos-hypr-noctalia](https://github.com/CachyOS/cachyos-hypr-noctalia)
-2. 🗣 Commented on [#69](https://github.com/noctalia-dev/noctalia-greeter/issues/69#issuecomment-5015221049) in [noctalia-dev/noctalia-greeter](https://github.com/noctalia-dev/noctalia-greeter)
-3. 🎉 Merged PR [#16](https://github.com/CachyOS/cachyos-hypr-noctalia/pull/16) in [CachyOS/cachyos-hypr-noctalia](https://github.com/CachyOS/cachyos-hypr-noctalia)
-4. ❗ Opened issue [#69](https://github.com/noctalia-dev/noctalia-greeter/issues/69) in [noctalia-dev/noctalia-greeter](https://github.com/noctalia-dev/noctalia-greeter)
+1. ℹ️ Labeled issue [#111](https://github.com/noctalia-dev/community-plugins/issues/111) in [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
+2. ❗ Opened issue [#111](https://github.com/noctalia-dev/community-plugins/issues/111) in [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
+3. 💪 Opened PR [#18](https://github.com/CachyOS/cachyos-hypr-noctalia/pull/18) in [CachyOS/cachyos-hypr-noctalia](https://github.com/CachyOS/cachyos-hypr-noctalia)
+4. 🗣 Commented on [#69](https://github.com/noctalia-dev/noctalia-greeter/issues/69#issuecomment-5015221049) in [noctalia-dev/noctalia-greeter](https://github.com/noctalia-dev/noctalia-greeter)
 <!--END_SECTION:activity-->
 
 ## Blog posts
