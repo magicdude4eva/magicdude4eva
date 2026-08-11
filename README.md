@@ -80,10 +80,10 @@ I’m always open to **collaborating on innovative projects**, **discussing tech
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/mikebowler/jirametrics/issues/77#issuecomment-5256077402) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
-2. ❗ Opened issue [#77](https://github.com/mikebowler/jirametrics/issues/77) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
-3. 🗣 Commented on [#111](https://github.com/noctalia-dev/community-plugins/issues/111#issuecomment-5132887596) in [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
-4. 🎉 Merged PR [#18](https://github.com/CachyOS/cachyos-hypr-noctalia/pull/18) in [CachyOS/cachyos-hypr-noctalia](https://github.com/CachyOS/cachyos-hypr-noctalia)
+1. 🗣 Commented on [#77](https://github.com/mikebowler/jirametrics/issues/77#issuecomment-5256427312) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+2. 🗣 Commented on [#77](https://github.com/mikebowler/jirametrics/issues/77#issuecomment-5256077402) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+3. ❗ Opened issue [#77](https://github.com/mikebowler/jirametrics/issues/77) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+4. 🗣 Commented on [#111](https://github.com/noctalia-dev/community-plugins/issues/111#issuecomment-5132887596) in [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
 <!--END_SECTION:activity-->
 
 ## Blog posts
