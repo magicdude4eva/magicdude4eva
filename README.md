@@ -80,10 +80,10 @@ I’m always open to **collaborating on innovative projects**, **discussing tech
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#980](https://github.com/CachyOS/linux-cachyos/issues/980) in [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos)
+1. 🗣 Commented on [#980](https://github.com/CachyOS/linux-cachyos/issues/980#issuecomment-5306649685) in [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos)
 2. ℹ️ Assigned issue [#980](https://github.com/CachyOS/linux-cachyos/issues/980) in [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos)
-3. ℹ️ Labeled issue [#980](https://github.com/CachyOS/linux-cachyos/issues/980) in [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos)
-4. ❗ Opened issue [#980](https://github.com/CachyOS/linux-cachyos/issues/980) in [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos)
+3. ℹ️ Assigned issue [#980](https://github.com/CachyOS/linux-cachyos/issues/980) in [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos)
+4. ℹ️ Labeled issue [#980](https://github.com/CachyOS/linux-cachyos/issues/980) in [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos)
 <!--END_SECTION:activity-->
 
 ## Blog posts
