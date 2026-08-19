@@ -80,10 +80,10 @@ I’m always open to **collaborating on innovative projects**, **discussing tech
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#80](https://github.com/mikebowler/jirametrics/issues/80) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
-2. 🗣 Commented on [#980](https://github.com/CachyOS/linux-cachyos/issues/980#issuecomment-5306649685) in [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos)
-3. ℹ️ Assigned issue [#980](https://github.com/CachyOS/linux-cachyos/issues/980) in [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos)
-4. ℹ️ Assigned issue [#980](https://github.com/CachyOS/linux-cachyos/issues/980) in [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos)
+1. 🗣 Commented on [#80](https://github.com/mikebowler/jirametrics/issues/80#issuecomment-5337939919) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+2. 🔒 Closed issue [#80](https://github.com/mikebowler/jirametrics/issues/80) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+3. ❗ Opened issue [#80](https://github.com/mikebowler/jirametrics/issues/80) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+4. 🗣 Commented on [#980](https://github.com/CachyOS/linux-cachyos/issues/980#issuecomment-5306649685) in [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos)
 <!--END_SECTION:activity-->
 
 ## Blog posts
