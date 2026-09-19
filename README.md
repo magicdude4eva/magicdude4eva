@@ -80,8 +80,8 @@ I’m always open to **collaborating on innovative projects**, **discussing tech
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#81](https://github.com/mikebowler/jirametrics/issues/81) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
-2. 🗣 Commented on [#80](https://github.com/mikebowler/jirametrics/issues/80#issuecomment-5337939919) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
+1. 🗣 Commented on [#13](https://github.com/magicdude4eva/calendar-sync/issues/13#issuecomment-5739562198) in [magicdude4eva/calendar-sync](https://github.com/magicdude4eva/calendar-sync)
+2. ❗ Opened issue [#81](https://github.com/mikebowler/jirametrics/issues/81) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
 3. 🔒 Closed issue [#80](https://github.com/mikebowler/jirametrics/issues/80) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
 4. ❗ Opened issue [#80](https://github.com/mikebowler/jirametrics/issues/80) in [mikebowler/jirametrics](https://github.com/mikebowler/jirametrics)
 <!--END_SECTION:activity-->
