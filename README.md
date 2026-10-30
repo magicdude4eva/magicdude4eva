@@ -80,10 +80,10 @@ I’m always open to **collaborating on innovative projects**, **discussing tech
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/magicdude4eva/docker-gunbot/pull/12) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
-2. 💪 Opened PR [#12](https://github.com/magicdude4eva/docker-gunbot/pull/12) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
-3. 🎉 Merged PR [#11](https://github.com/magicdude4eva/docker-gunbot/pull/11) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
-4. 💪 Opened PR [#11](https://github.com/magicdude4eva/docker-gunbot/pull/11) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
+1. ❗ Opened issue [#625](https://github.com/CachyOS/distribution/issues/625) in [CachyOS/distribution](https://github.com/CachyOS/distribution)
+2. 🎉 Merged PR [#12](https://github.com/magicdude4eva/docker-gunbot/pull/12) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
+3. 💪 Opened PR [#12](https://github.com/magicdude4eva/docker-gunbot/pull/12) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
+4. 🎉 Merged PR [#11](https://github.com/magicdude4eva/docker-gunbot/pull/11) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
 <!--END_SECTION:activity-->
 
 ## Blog posts
