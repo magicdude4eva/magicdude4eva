@@ -80,10 +80,10 @@ I’m always open to **collaborating on innovative projects**, **discussing tech
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/magicdude4eva/docker-gunbot/pull/15) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
-2. 💪 Opened PR [#15](https://github.com/magicdude4eva/docker-gunbot/pull/15) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
-3. 🎉 Merged PR [#14](https://github.com/magicdude4eva/docker-gunbot/pull/14) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
-4. 💪 Opened PR [#14](https://github.com/magicdude4eva/docker-gunbot/pull/14) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
+1. 🗣 Commented on [#2](https://github.com/magicdude4eva/ha-eg-austria/pull/2#issuecomment-6707261388) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
+2. 🗣 Commented on [#2](https://github.com/magicdude4eva/ha-eg-austria/pull/2#issuecomment-6707182939) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
+3. 🗣 Commented on [#1](https://github.com/magicdude4eva/ha-eg-austria/pull/1#issuecomment-6707182632) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
+4. 🎉 Merged PR [#3](https://github.com/magicdude4eva/ha-eg-austria/pull/3) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
 <!--END_SECTION:activity-->
 
 ## Blog posts
