@@ -80,10 +80,10 @@ I’m always open to **collaborating on innovative projects**, **discussing tech
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/magicdude4eva/ha-eg-austria/pull/2#issuecomment-6707261388) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
-2. 🗣 Commented on [#2](https://github.com/magicdude4eva/ha-eg-austria/pull/2#issuecomment-6707182939) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
-3. 🗣 Commented on [#1](https://github.com/magicdude4eva/ha-eg-austria/pull/1#issuecomment-6707182632) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
-4. 🎉 Merged PR [#3](https://github.com/magicdude4eva/ha-eg-austria/pull/3) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
+1. ❗ Opened issue [#52](https://github.com/foXaCe/homeassistant-nerdqaxe-addon/issues/52) in [foXaCe/homeassistant-nerdqaxe-addon](https://github.com/foXaCe/homeassistant-nerdqaxe-addon)
+2. 🗣 Commented on [#2](https://github.com/magicdude4eva/ha-eg-austria/pull/2#issuecomment-6707261388) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
+3. 🗣 Commented on [#2](https://github.com/magicdude4eva/ha-eg-austria/pull/2#issuecomment-6707182939) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
+4. 🗣 Commented on [#1](https://github.com/magicdude4eva/ha-eg-austria/pull/1#issuecomment-6707182632) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
 <!--END_SECTION:activity-->
 
 ## Blog posts
