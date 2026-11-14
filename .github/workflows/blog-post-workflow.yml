@@ -1,6 +1,17 @@
 name: Latest blog post workflow
+
 on:
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  schedule:
+    - cron: "15 6 * * *" # Daily at 06:15 UTC
+  workflow_dispatch: # Run manually from the Actions tab
+
+permissions:
+  contents: write
+
+# Shared with the other README-writing workflows so their pushes don't race
+concurrency:
+  group: profile-readme-write
+  cancel-in-progress: false
 
 jobs:
   update-readme-with-blog:
@@ -13,5 +24,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.naschenweng.eu/feed"
+          max_post_count: 5
           disable_item_validation: true
-
+          commit_message: "chore: update latest blog posts"

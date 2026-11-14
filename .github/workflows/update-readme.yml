@@ -2,8 +2,16 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: "0 */6 * * *" # Every 6 hours
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Shared with the other README-writing workflows so their pushes don't race
+concurrency:
+  group: profile-readme-write
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -12,6 +20,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v7
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: jamesgeorge007/github-activity-readme@4aefbfa1c222d70537dc6a02f0519266aab2b1ea # v0.5.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
