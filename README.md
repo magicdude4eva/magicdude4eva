@@ -100,10 +100,10 @@ I’m always open to **collaborating on innovative projects**, **discussing tech
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/magicdude4eva/ha-eg-austria/pull/5) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
-2. 💪 Opened PR [#5](https://github.com/magicdude4eva/ha-eg-austria/pull/5) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
-3. 🔒 Closed issue [#1](https://github.com/magicdude4eva/btc-fullnode-stack/issues/1) in [magicdude4eva/btc-fullnode-stack](https://github.com/magicdude4eva/btc-fullnode-stack)
-4. 🔒 Closed issue [#2](https://github.com/magicdude4eva/btc-fullnode-stack/issues/2) in [magicdude4eva/btc-fullnode-stack](https://github.com/magicdude4eva/btc-fullnode-stack)
+1. 🎉 Merged PR [#16](https://github.com/magicdude4eva/docker-gunbot/pull/16) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
+2. 💪 Opened PR [#16](https://github.com/magicdude4eva/docker-gunbot/pull/16) in [magicdude4eva/docker-gunbot](https://github.com/magicdude4eva/docker-gunbot)
+3. 🎉 Merged PR [#1](https://github.com/magicdude4eva/docker-jirametrics/pull/1) in [magicdude4eva/docker-jirametrics](https://github.com/magicdude4eva/docker-jirametrics)
+4. 💪 Opened PR [#1](https://github.com/magicdude4eva/docker-jirametrics/pull/1) in [magicdude4eva/docker-jirametrics](https://github.com/magicdude4eva/docker-jirametrics)
 <!--END_SECTION:activity-->
 
 ## Blog posts
