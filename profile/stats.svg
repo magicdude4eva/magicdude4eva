@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Gerd Naschenweng&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 419, Total Commits  (last year) : 275, Total PRs: 99, Total Issues: 147, Contributed to (last year): 17</desc>
+        <desc id="descId">Total Stars Earned: 421, Total Commits  (last year) : 290, Total PRs: 120, Total Issues: 156, Contributed to (last year): 18</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 59.17925547699786;
+        stroke-dashoffset: 54.24392992868555;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >419</text>
+      >421</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >275</text>
+      >290</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >99</text>
+      >120</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >147</text>
+      >156</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >17</text>
+      >18</text>
     </g>
   </g>
     </svg>
