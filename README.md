@@ -100,10 +100,10 @@ I’m always open to **collaborating on innovative projects**, **discussing tech
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/magicdude4eva/ha-eg-austria/issues/55#issuecomment-7111168184) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
-2. 🗣 Commented on [#98](https://github.com/magicdude4eva/ha-eg-austria/issues/98#issuecomment-7115176296) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
-3. 🗣 Commented on [#97](https://github.com/magicdude4eva/ha-eg-austria/issues/97#issuecomment-7115176849) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
-4. 🚀 Published release [v0.2.1.1](https://github.com/magicdude4eva/ha-eg-austria/releases/tag/0.2.1.1) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
+1. 💪 Opened PR [#108](https://github.com/magicdude4eva/ha-eg-austria/pull/108) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
+2. 🎉 Merged PR [#14719](https://github.com/hacs/default/pull/14719) in [hacs/default](https://github.com/hacs/default)
+3. 🎉 Merged PR [#107](https://github.com/magicdude4eva/ha-eg-austria/pull/107) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
+4. 💪 Opened PR [#107](https://github.com/magicdude4eva/ha-eg-austria/pull/107) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
 <!--END_SECTION:activity-->
 
 ## Blog posts
