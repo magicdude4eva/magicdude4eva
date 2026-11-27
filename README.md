@@ -100,10 +100,10 @@ I’m always open to **collaborating on innovative projects**, **discussing tech
 
 ## Recent activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#115](https://github.com/magicdude4eva/ha-eg-austria/issues/115) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
-2. 🎉 Merged PR [#116](https://github.com/magicdude4eva/ha-eg-austria/pull/116) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
-3. 💪 Opened PR [#116](https://github.com/magicdude4eva/ha-eg-austria/pull/116) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
-4. 🗣 Commented on [#99](https://github.com/magicdude4eva/ha-eg-austria/issues/99#issuecomment-7201700980) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
+1. 🗣 Commented on [#1092](https://github.com/midea-lan/midea-local/issues/1092#issuecomment-7227769996) in [midea-lan/midea-local](https://github.com/midea-lan/midea-local)
+2. 🗣 Commented on [#1091](https://github.com/midea-lan/midea-local/issues/1091#issuecomment-7227765061) in [midea-lan/midea-local](https://github.com/midea-lan/midea-local)
+3. 🔒 Closed issue [#115](https://github.com/magicdude4eva/ha-eg-austria/issues/115) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
+4. 🎉 Merged PR [#116](https://github.com/magicdude4eva/ha-eg-austria/pull/116) in [magicdude4eva/ha-eg-austria](https://github.com/magicdude4eva/ha-eg-austria)
 <!--END_SECTION:activity-->
 
 ## Blog posts
